@@ -29,6 +29,6 @@ Two clustering algorithms are run on the whole data and each of its categories
 This section deals with the visualisation of the data and the clusters on a map. 
 
 ### Result evaluation
-In this section the clustering results are evaluated by comparison to popular locations on the map 
+In this section the clustering results(clustering centers) are evaluated by comparison to popular locations on the map 
 
 

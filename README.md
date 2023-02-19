@@ -2,10 +2,15 @@
 # Final project in Big Data Platform course by Jiayu Guan (806761), Moshe Barboy (310116165), Roey Gadot (309882298)
 
 This study was performed in google colab notebook. 
-Some parts of the notebook rely on access to a drive with the data (in our case google drive was mounted with the data in)
+
+Some parts of the notebook rely on access to a drive with the data (in our case google drive was mounted with the data in).
+
 The zip containing the data can be downloaded from:
+
 https://msropendata.com/datasets/3b8d1783-2c4f-4bdf-aa58-db777d0fd037
+
 We saved the data in a "/content/drive/MyDrive/Big Data project/Data" location accessible from the notebook. 
+
 To rerun it you should download the data to some location accessible to your machine and change all the URLs in the notebook accordingly 
 
 The notebook has several sections: 

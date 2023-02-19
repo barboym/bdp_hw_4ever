@@ -1,5 +1,5 @@
 
-# Final project in Big Data Platform course by Jiayu Guan (806761), Moshe Barboy (310116165), Roey Gadot (309882298)
+# Final project in Big Data Platform course by Jiayu Guan, Moshe Barboy, Roey Gadot 
 
 This study was performed in google colab notebook. 
 
